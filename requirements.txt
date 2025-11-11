@@ -1,0 +1,7 @@
+opencv-python>=4.5.0
+numpy>=1.21.0
+librosa>=0.8.0
+tensorflow>=2.8.0
+gdown>=4.4.0
+ffmpeg-python>=0.2.0
+deepface>=0.0.95
